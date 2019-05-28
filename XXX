@@ -1,0 +1,7 @@
+udp://tracker.openbittorrent.com:80/announce
+http://mgtracker.org:2710/announce
+http://mgtracker.org:6969/announce
+http://open.acgtracker.com:1096/announce
+http://tracker.mg64.net:6881/announce
+udp://tracker.mg64.net:2710/announce
+udp://tracker.mg64.net:6969/announce
